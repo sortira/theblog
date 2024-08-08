@@ -11,7 +11,7 @@ Now, **who am I?** It is a Linux command of course, but apart from that, as I al
 My contact details are:
 
 - 📞 +91 9073989733
-- 📧 aritroshomework@gmail.com, aritro.shome.official@gmail.com
+- 📧 [aritroshomework@gmail.com](mailto:aritroshomework@gmail.com), [aritro.shome.official@gmail.com](mailto:aritro.shome.official@gmail.com)
 - GitHub: [https://github.com/sortira](https://github.com/sortira)
 - Instagram: [https://instagram.com/thearitroshome](https://instagram.com/thearitroshome)
 - Twitter: [https://x.com/ar1tro](https://x.com/ar1tro)
