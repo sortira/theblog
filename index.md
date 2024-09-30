@@ -1,5 +1,11 @@
 
 ## Home
+
+Recent Posts: 
+  - [MidSemester](https://sortira.github.io/theblog/2024/09/29/MidSemester.html)
+  - [Journey](https://sortira.github.io/theblog/2024/08/07/Journey.html]
+
+
 Hello everyone, this is my personal blog. No, I do not intend to share life stuff or yet-another-college-life-drama-blog (I'm aware the URL doesn't say WattPad). No, I intend to use this as a showcase of whatever little I hope and aspire to build and achieve. By the way, my name is **Aritro Shome**. More on me later.
 
 By choice, I am a programmer. The art of building the most intricate entities in perhaps one of the most intellectual activities (other than chess ♟️) simply appeals to me more than anything else. I look forward to collaborating on projects, so feel free to contact me! 
